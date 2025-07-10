@@ -11,7 +11,7 @@ python3 -m venv /path/to/new/virtual/environment
 Best practice is not to create the venv in the repo but to group by projects. For example:
 
 ```bash
-python3 -m venv /venv
+python3 -m venv .venv
 ```
 
 This will create the venv in the above mentioned folder which can then be referred to for
@@ -20,7 +20,7 @@ several crime data projects.
 ### activate the venv
 
 ```bash
-source /venv/bin/activate
+source .venv/bin/activate
 ```
 
 ### Install pip packages
