@@ -33,3 +33,11 @@ python3 -m pip install anthropic python-dotenv
 ```bash
 pip install -r requirements.txt
 ```
+
+### Adding large images to your notebooks
+If you add large images to your notebooks, youll want to use the following commands:
+
+```bash
+ git lfs track "*.ipynb"   
+ git config http.postBuffer 5g
+```
