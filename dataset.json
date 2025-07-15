@@ -1,0 +1,11 @@
+[
+    {
+        "task": "Create a Python function to extract the AWS region from an ARN (Amazon Resource Name)"
+    },
+    {
+        "task": "Write a JSON configuration for an AWS Lambda function's event mapping to an SQS queue"
+    },
+    {
+        "task": "Develop a regular expression to validate an AWS EC2 instance ID format (e.g., i-0123456789abcdef0)"
+    }
+]
