@@ -1,0 +1,38 @@
+[
+  {
+    "prompt_inputs": {
+      "content": "Recent neuroimaging studies have revealed complex interactions between emotional processing and cognitive control in the prefrontal cortex, suggesting that psychological resilience emerges from dynamic neural network adaptations. By examining functional connectivity patterns between the amygdala and dorsolateral prefrontal regions, researchers have uncovered how emotional regulation mechanisms modulate stress response and cognitive flexibility in individuals experiencing chronic psychological challenges."
+    },
+    "solution_criteria": [
+      "Correctly identify key research topics from the passage",
+      "Generate a JSON array containing relevant scholarly topics",
+      "Ensure topics capture the core interdisciplinary themes"
+    ],
+    "task_description": "Extract topics out of a passage of text from a scholarly article into a JSON array of strings",
+    "scenario": "Testing scholarly article with interdisciplinary neuroscience and psychology research topics"
+  },
+  {
+    "prompt_inputs": {
+      "content": "Coral reef ecosystems represent complex marine biodiversity hotspots experiencing unprecedented challenges from climate change. Rising ocean temperatures and ocean acidification are causing widespread coral bleaching events, fundamentally disrupting intricate symbiotic relationships between coral polyps and zooxanthellae algae. These environmental stressors are progressively reducing marine habitat resilience, threatening entire ecological networks in tropical and subtropical marine environments."
+    },
+    "solution_criteria": [
+      "Correctly identify core ecological topics",
+      "Extract specific scientific domains mentioned",
+      "Capture key environmental themes"
+    ],
+    "task_description": "Extract topics out of a passage of text from a scholarly article into a JSON array of strings",
+    "scenario": "Testing scholarly article from environmental science with complex ecological terminology"
+  },
+  {
+    "prompt_inputs": {
+      "content": "Recent advancements in artificial intelligence have dramatically transformed machine learning research domains. Neural network architectures like transformer models have revolutionized natural language processing, enabling breakthroughs in generative AI, semantic understanding, and complex reasoning tasks. Researchers are increasingly exploring ethical AI frameworks, focusing on algorithmic bias reduction, transparency, and responsible development of autonomous systems."
+    },
+    "solution_criteria": [
+      "Correctly identify 3-5 distinct topic areas from the text",
+      "Represent topics as a valid JSON array of strings",
+      "Capture core technological and research themes mentioned"
+    ],
+    "task_description": "Extract topics out of a passage of text from a scholarly article into a JSON array of strings",
+    "scenario": "Testing scholarly article about emerging technology and artificial intelligence research domains"
+  }
+]

@@ -3,48 +3,16 @@
     "prompt_inputs": {
       "height": "180",
       "weight": "75",
-      "goal": "Marathon training nutrition optimization",
+      "goal": "Ultra-marathon performance optimization",
       "restrictions": "Gluten-free, lactose-intolerant"
     },
     "solution_criteria": [
-      "Provides 3500-4000 daily calories",
-      "Includes balanced macronutrient distribution for endurance performance",
+      "Provides complete daily caloric intake matching athlete's metabolic needs",
+      "Ensures balanced macronutrient distribution for endurance performance",
       "Accommodates specified dietary restrictions",
-      "Supports high-intensity training nutritional needs"
+      "Includes strategic meal timing for training nutrition"
     ],
     "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
-    "scenario": "Test a high-intensity endurance athlete (like a marathon runner) requiring extreme caloric intake and specialized nutrition balance"
-  },
-  {
-    "prompt_inputs": {
-      "height": "175",
-      "weight": "82",
-      "goal": "muscle maintenance and strength development",
-      "restrictions": "vegan, no soy products, gluten-free"
-    },
-    "solution_criteria": [
-      "Provide at least 120-140g of plant-based protein",
-      "Total daily calories match athlete's metabolic requirements",
-      "Include diverse protein sources without soy",
-      "Ensure balanced macronutrient distribution"
-    ],
-    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
-    "scenario": "Test a vegan strength athlete with protein-dense plant-based meal requirements and specific macro/micronutrient constraints"
-  },
-  {
-    "prompt_inputs": {
-      "height": "180",
-      "weight": "82",
-      "goal": "muscle maintenance and quick energy during college athletics",
-      "restrictions": "budget-conscious, minimal cooking time, no shellfish allergies"
-    },
-    "solution_criteria": [
-      "Provides nutritionally balanced meals within $15-20 daily budget",
-      "Includes meals requiring 15 minutes or less preparation time",
-      "Meets estimated 2800-3000 calorie athletic daily requirement",
-      "Incorporates protein sources supporting muscle recovery"
-    ],
-    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
-    "scenario": "Test a budget-conscious college athlete with limited cooking skills and minimal meal preparation time, focusing on affordable, quick nutrition"
+    "scenario": "Test scenario: Design a high-intensity endurance athlete's meal plan with extreme caloric and macro-nutrient constraints, focusing on ultra-marathon or triathlon training nutrition requirements"
   }
 ]
